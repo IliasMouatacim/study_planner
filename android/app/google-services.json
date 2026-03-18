@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "939078063078",
+    "project_id": "pomodoro-80a33",
+    "storage_bucket": "pomodoro-80a33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939078063078:android:dbdef713246610a4767c27",
+        "android_client_info": {
+          "package_name": "com.example.study_planner_pomodoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939078063078-aoupeh4gu1edurbeujncdlqo1vnkhq6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.study_planner_pomodoro",
+            "certificate_hash": "f59482abd89f5c2e155513a6f584f8711b1b2c86"
+          }
+        },
+        {
+          "client_id": "939078063078-3cclij3ta9hlesk07h86gk85p7v9auob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs16DBCJirVGnzeIViFHxjn8VSXa5OunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939078063078-3cclij3ta9hlesk07h86gk85p7v9auob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939078063078-s4ohc4a1a7eg3f1akakgk2i985stbgl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studyPlannerPomodoro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939078063078:android:630dad796fe1f105767c27",
+        "android_client_info": {
+          "package_name": "study_planner.pomodoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939078063078-o8grvvta6u4f2kb5isrkv00aoks0ddb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "study_planner.pomodoro",
+            "certificate_hash": "f59482abd89f5c2e155513a6f584f8711b1b2c86"
+          }
+        },
+        {
+          "client_id": "939078063078-3cclij3ta9hlesk07h86gk85p7v9auob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs16DBCJirVGnzeIViFHxjn8VSXa5OunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939078063078-3cclij3ta9hlesk07h86gk85p7v9auob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939078063078-s4ohc4a1a7eg3f1akakgk2i985stbgl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studyPlannerPomodoro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
