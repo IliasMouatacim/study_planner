@@ -23,7 +23,7 @@
     }
   },
   "hosting": {
-    "public": "build/wweb",
+    "public": "build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
